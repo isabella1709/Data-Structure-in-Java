@@ -30,10 +30,6 @@ This repository contains implementations of fundamental data structures in Java.
 
 4. **Compile and run the `.java` files as needed.**
 
-## 🤝 Contributions
-
-Contributions are welcome! Feel free to open issues or submit pull requests with improvements, bug fixes, or new data structure implementations.
-
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](https://mit-license.org/#:~:text=The%20MIT%20License%20(MIT)&text=Permission%20is%20hereby%20granted%2C%20free,OTHER%20DEALINGS%20IN%20THE%20SOFTWARE.) file for more details.
